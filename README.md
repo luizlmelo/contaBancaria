@@ -49,20 +49,22 @@ Regras para movimentação de saldo:
 
 Exercício proposto no curso do professor **Nélio Alves**.
 
-![Image](https://github.com/user-attachments/assets/4246892b-25d2-41e7-b21f-d62896882fd9)
+![exercicioContaBancaria](https://github.com/user-attachments/assets/6889b97f-a41c-476e-ace6-b5998e3d27d5)
 
 ---
 
 ### 🧩 UML do Exercício
 
-![UML](https://github.com/user-attachments/assets/f3091632-6ac3-4aa8-be4f-851527fc65ec)
+![UMLContaBancaria](https://github.com/user-attachments/assets/392b42b9-4d07-4f11-886d-1dc9f0c11ebe)
+
 
 ---
 
 ### 💻 Exemplos de Saída
 
-![Exemplo 1](https://github.com/user-attachments/assets/05333178-d3be-4c84-977e-c6f156a0c8ad)  
-![Exemplo 2](https://github.com/user-attachments/assets/89cfff2e-0206-4bc6-bbd8-d1e0a3340e10)
+![exemplosDeSaidaI](https://github.com/user-attachments/assets/43d8cab9-e100-4a8d-abac-c4d22c05f1da)
+![exemploDeSaidaII](https://github.com/user-attachments/assets/696ecd72-77d2-4ef5-8405-ab435d3e017f)
+
 
 ---
 
